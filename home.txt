@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 123
 234
 111
 aaa
+=======
+2323
+wwwssw
+wwweesse
+rrrrrrrssr
+>>>>>>> home-wk
